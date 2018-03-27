@@ -1,0 +1,15 @@
+H:\documents\INFORMATICA\Oefeningen\SteenSchaarPapier\SteenSchaarPapier\SteenSchaarPapier\bin\Debug\SteenSchaarPapier.exe.config
+H:\documents\INFORMATICA\Oefeningen\SteenSchaarPapier\SteenSchaarPapier\SteenSchaarPapier\bin\Debug\SteenSchaarPapier.exe
+H:\documents\INFORMATICA\Oefeningen\SteenSchaarPapier\SteenSchaarPapier\SteenSchaarPapier\bin\Debug\SteenSchaarPapier.pdb
+H:\documents\INFORMATICA\Oefeningen\SteenSchaarPapier\SteenSchaarPapier\SteenSchaarPapier\obj\Debug\SteenSchaarPapier.csprojResolveAssemblyReference.cache
+H:\documents\INFORMATICA\Oefeningen\SteenSchaarPapier\SteenSchaarPapier\SteenSchaarPapier\obj\Debug\MainWindow.g.cs
+H:\documents\INFORMATICA\Oefeningen\SteenSchaarPapier\SteenSchaarPapier\SteenSchaarPapier\obj\Debug\App.g.cs
+H:\documents\INFORMATICA\Oefeningen\SteenSchaarPapier\SteenSchaarPapier\SteenSchaarPapier\obj\Debug\SteenSchaarPapier_MarkupCompile.cache
+H:\documents\INFORMATICA\Oefeningen\SteenSchaarPapier\SteenSchaarPapier\SteenSchaarPapier\obj\Debug\SteenSchaarPapier_MarkupCompile.lref
+H:\documents\INFORMATICA\Oefeningen\SteenSchaarPapier\SteenSchaarPapier\SteenSchaarPapier\obj\Debug\MainWindow.baml
+H:\documents\INFORMATICA\Oefeningen\SteenSchaarPapier\SteenSchaarPapier\SteenSchaarPapier\obj\Debug\SteenSchaarPapier.g.resources
+H:\documents\INFORMATICA\Oefeningen\SteenSchaarPapier\SteenSchaarPapier\SteenSchaarPapier\obj\Debug\SteenSchaarPapier.Properties.Resources.resources
+H:\documents\INFORMATICA\Oefeningen\SteenSchaarPapier\SteenSchaarPapier\SteenSchaarPapier\obj\Debug\SteenSchaarPapier.csproj.GenerateResource.Cache
+H:\documents\INFORMATICA\Oefeningen\SteenSchaarPapier\SteenSchaarPapier\SteenSchaarPapier\obj\Debug\SteenSchaarPapier.csproj.CoreCompileInputs.cache
+H:\documents\INFORMATICA\Oefeningen\SteenSchaarPapier\SteenSchaarPapier\SteenSchaarPapier\obj\Debug\SteenSchaarPapier.exe
+H:\documents\INFORMATICA\Oefeningen\SteenSchaarPapier\SteenSchaarPapier\SteenSchaarPapier\obj\Debug\SteenSchaarPapier.pdb
